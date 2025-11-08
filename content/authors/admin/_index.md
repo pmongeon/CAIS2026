@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 	"Information in Repair: The 54th Annual Conference of the Canadian Association for Information Science"
+title: 	
 avatar_filename: avatar.jpg
 
 # Username (this should match the folder name)
