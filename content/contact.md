@@ -13,18 +13,10 @@ header:
 ---
 ## Organizing committee
 
-- Philippe Mongeon, Dalhousie University
-- Maddie Hare, University of Ottawa
-- Geoff Krause, Dalhousie University
-- Constance Poitras, Université de Montréal
-- Poppy Riddle, Dalhousie University
-- Sandra Toze, Dalhousie University 
-
-## Translators
-We are very grateful to Université de Montréal students Ambre Lefaix-Franchi, Faye Daw-Yi Fung, and Alice Aubin-Mercier for their assistance translating the conference proceedings.
-
-## Volunteers
-A big thank you to our dedicated volunteers: Cindy Bergeron, Kate Gaffney, Lisa Taylor, Rebecca Marjoram, Summer Wilson, Rowan Moore, Sarah Clarkson, and Sodiq Onaolapo.
+- Julia Bullard
+- Melissa Nelson
+- Cameron Pierson
+- Lisa Nathan
 
 ## Contact us
 
