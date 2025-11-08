@@ -29,7 +29,7 @@ header:
   image: ""
  
 ---
-![Picture of bannerhead](/banner.jpg)
+
 
 ## Welcome to CAIS 2026
 
