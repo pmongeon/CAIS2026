@@ -14,8 +14,8 @@ header:
 
 ## Call for papers
 The Canadian Association for Information Science (CAIS/ACSI) invites submissions for its 54th annual conference, June 22-26, 2026. The conference will be free and open to all, online, hosted by conference organizers at the University of British Columbia School of Information.
-
-
+<br>
+<br>
 This year’s theme, “Information in Repair,” centers the maintenance and reparative work that is always required, but rarely lauded, across information systems. Scholarly attention and resources are often directed towards the new and novel, the conceptualization and design of innovative systems and interventions. This tendency risks ignoring opportunities to learn from the vast amount of knowledge, practice and technical expertise that goes into monitoring, adjusting, and navigating changes within critical, long-term components of longer-term/ongoing/continuing information systems. We are particularly interested in information science perspectives on practices of disposability or reuse, of reparative work, and theories of repair. We invite creative and expansive views of what is being repaired and maintained, as well as exploration of repair itself as information work. As CAIS seeks to be a home for information science across Canada, our yearly conference routinely develops and supports scholarship in:
 - Information seeking and behaviour
 - Information literacy and education
