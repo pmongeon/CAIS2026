@@ -43,7 +43,7 @@ Please use the [submission template](https://github.com/pmongeon/CAIS2026/blob/1
 
 ## Student research forum
 
-We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More information about participating in the forum will be provided when registration opens in March.
+We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. Apply to participate by filling out [this form] (https://docs.google.com/forms/d/e/1FAIpQLScj0ug404Kj7ahbgQZ8Lfpc7ICx-qoyIgJ21IsOlKBMxxcuDQ/viewform) by March 31
 
 ## Important dates 
 
