@@ -53,6 +53,7 @@ Diverse and innovative perspectives (theoretical and applied) and methodologies 
 - Submissions due: <strong>January 31</strong>
 - Peer reviews due: March 1
 - Notifications to authors: March 23
+- Student forum applications due: March 31
 - Final submissions due: May 11
 
 
