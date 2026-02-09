@@ -48,6 +48,9 @@ This year’s theme, “Information in Repair,” centers the maintenance and re
 - Diversity, equity, and inclusion in information science<br>
 Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome.
 
+### The CAIS/ACSI Awards
+Every year, The CAIS/ACSI Awards recognize exceptional work from Master's research, emerging leaders, doctoral dissertations, career achievement, and conference papers. Nominations are now open! Please see the [CAIS-ACSI Awards page](https://cais-acsi.ca/Awards) for more information. **The deadline is Wednesday, April 8th at midnight Eastern Standard Time (EST)**
+
 
 ## Important Dates 
 - Submissions due: <strong>~~January 31~~ February 7 </strong>
