@@ -16,7 +16,6 @@ header:
 - Julia Bullard
 - Melissa Nelson
 - Cameron Pierson
-- Lisa Nathan
 
 ## Contact us
 
