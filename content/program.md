@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-You can find the full conference proceedings [here](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/index).
+The full conference proceedings will be available [here](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/index).
 
 
 ## Conference Program
@@ -111,210 +111,199 @@ You can find the full conference proceedings [here](https://journals.library.ual
     </td>
   </tr>
 
-  
-  
-  
-  
-  
-  
   <tr>
   <td colspan=6 style="font-size:20px"><strong>Day 3 - Wednesday, June 24</strong> </td>
   </tr>
       <tr>
-    <td colspan=2 style="width:20%"><strong> Session 1 - <a href="">Zoom A</a></strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 5 - <a href="">Zoom A</a></strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
-      A Mari Usque Ad Mare: Envisioning stronger student organizing among Canadian LIS programs<br>
-      <i>Melissa Nelson, Camille Demers, Maddie Hare, JP Maan, & Constance Poitras</i>
+      Critical pedagogies and practices for care and connection in online teaching and learning (Panel)<br>
+      <i>Tami Oliphant, Danielle Allard, Heather Hill, Kirk MacLeod, Lorisia MacLeod, & Pamela McKenzie</i>
     </td>
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 2 - <a href="">Zoom A</a></strong><br>
+      <strong>Session 6 - Epistemic justice - <a href="">Zoom A</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 3 - <a href="">Zoom B</a></strong><br>
+      <strong>Session 7 - Platform design & maintenance - <a href="">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
   </tr>
  <tr>
-    <td colspan=3><a href="">The Actuality of the obsolete: Inscriptions, traces, and the documentary lifes of zines</a><br>
-        <i>Iulian Vamanu</i></td>
-    <td colspan=3><a href="">Session 3 presentation 1</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">How did library and information science (LIS) schools perform in global rankings? An analysis of territorial epistemic injustices</a><br>
+        <i>Núria Bautista-Puig, Sara Martinez-Cardama, Samile Andrea de Souza Vanz, Phoebe Yip, & Chris Cunningham</i></td>
+    <td colspan=3><a href="">Plurality not pluribus in a unified digital collections platform</a><br>
+        <i>Kathryn Ruddock, Ingrid Reiche, & Chelsea Ambler</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Session 2 presentation 2</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 2</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">Reparative information literacies of civic engagement for racial justice in the American South: Exploratory qualitative perspectives of public library staff in the domain of economy</a><br>
+        <i>Bharat Mehra, Kimberly Black, Baheya Jaber, & Kaurri C. Williams-Cockfield</i></td>
+    <td colspan=3><a href="">Invisible information work: Reparative practices in knowledge organization systems</a><br>
+        <i>Rajesh Kumar Das</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Session 2 presentation 3</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 3</a><br>
-        <i>author</i></td>
-  </tr>
-  <tr>
-    <td colspan=3><a href="">Session 2 presentation 4</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 4</a><br>
-        <i>author</i></td>
-  </tr>
-  <tr>
-    <td colspan=3><a href="">Session 2 presentation 5</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 5</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">Knowledge justice-informed student partnerships as reparative MLIS pedagogy work</a><br>
+        <i>Pam McKenzie & Heather Campbell</i></td>
+    <td colspan=3><a href="">When interfaces fail: Mapping AI modalities used to repar access for blind and visually impaired users in digital knowledge repositories</a><br>
+        <i>Omorodion Okuonghae</i></td>
   </tr>
   <tr>
     <th colspan=6>12:00pm - 12:30pm Break</th>
   </tr>
   <tr>
-    <td colspan=2 style="width:20%"><strong> Session 4 - <a href="">Zoom A</a></strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 8 - Advocacy and advocates - <a href="">Zoom A</a></strong><br>
      12:30pm - 2:00pm</td>
     <td colspan=4>
-      Session 4 presentation 1<br>
-      <i>author</i><br><br>
-      Session 4 presentation 2<br>
-      <i>author</i><br><br>
-      Session 4 presentation 3<br>
-      <i>author</i><br><br>
-      Session 4 presentation 4<br>
-      <i>author</i>
+      An analysis of how first amendment auditors disseminate legal knowledge on YouTube<br>
+      <i>Jasvinder Mann</i><br><br>
+      Expectations of music archivists and disabled music archive users (Lightning talk)<br>
+      <i>Elizabeth Pineo</i><br><br>
+      Information needs of economically disadvantaged women in Lima, Peru<br>
+      <i>Ana Talavera</i><br><br>
+      Information jungle: Understanding information histories and authoritarianism<br>
+      <i>Emma Brandt</i><br><br>
+      Monitoring victims: Huamn trafficking assessment tools as long-term record maintenance<br>
+      <i>Nikki Wise</i>
     </td>
   </tr>
   
   <td colspan=6 style="font-size:20px"><strong>Day 4 - Thursday, June 25</strong> </td>
   </tr>
       <tr>
-    <td colspan=2 style="width:20%"><strong> Session 1 - <a href="">Zoom A</a></strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 9 - <a href="">Zoom A</a></strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
-      A Mari Usque Ad Mare: Envisioning stronger student organizing among Canadian LIS programs<br>
-      <i>Melissa Nelson, Camille Demers, Maddie Hare, JP Maan, & Constance Poitras</i>
+      The Collaborative Canadian Catalogue/Le Catalogue canadien collaboratif (Panel)<br>
+      <i>B.M. Watson</i>
     </td>
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 2 - <a href="">Zoom A</a></strong><br>
+      <strong>Session 10 - AI Literacies & User Experience - <a href="">Zoom A</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 3 - <a href="">Zoom B</a></strong><br>
+      <strong>Session 11 - Human-centered perspectives<a href="">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
   </tr>
  <tr>
-    <td colspan=3><a href="">The Actuality of the obsolete: Inscriptions, traces, and the documentary lifes of zines</a><br>
-        <i>Iulian Vamanu</i></td>
-    <td colspan=3><a href="">Session 3 presentation 1</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">Mapping research on AI-generated summaries</a><br>
+        <i>Emmanuel Cudjoe</i></td>
+    <td colspan=3><a href="">Beyond repair: Wake work, refusal, and diasporic reimagingings of colonial archival regimes</a><br>
+        <i>Elizabeth Shaffer</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Session 2 presentation 2</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 2</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">De la littératie informationnelle à la littératie algorithmique en bibliothèque: Impératif sociétal et proposition d’un référentiel de formation</a><br>
+        <i>Kouassi Sylvestre Kouakou</i></td>
+    <td colspan=3><a href="">Understanding human vulnerability in library and information science literature: Definitions, populations, manifestations, and factors</a><br>
+        <i>Shengang Wang</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Session 2 presentation 3</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 3</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">AI's integration in user-experience design (Lightning talk)</a><br>
+        <i>Drishti Kothari, Catherine Guastavino, & Steven Ding</i></td>
+    <td colspan=3><a href="">Toward a method of measuring dehumanization's influence on sharing and believing misinformation</a><br>
+        <i>Andrew Weiss, Souvick Ghosh, & Frances Johnson</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Session 2 presentation 4</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 4</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">AI imaginaries in media literacy courses (Lightning talk)</a><br>
+        <i>Lucas L.H. Wong</i></td>
   </tr>
-  <tr>
-    <td colspan=3><a href="">Session 2 presentation 5</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 5</a><br>
-        <i>author</i></td>
-  </tr>
-  <tr>
+   <tr>
     <th colspan=6>12:00pm - 12:30pm Break</th>
   </tr>
     <tr>
-      <tr>
-    <td colspan=2 style="width:20%"><strong> Session 4 - <a href="">Zoom A</a></strong><br>
-     12:30pm - 2:00pm</td>
-    <td colspan=4>
-      Session 4 presentation 1<br>
-      <i>author</i><br><br>
-      Session 4 presentation 2<br>
-      <i>author</i><br><br>
-      Session 4 presentation 3<br>
-      <i>author</i><br><br>
-      Session 4 presentation 4<br>
-      <i>author</i>
+    <td colspan=3>
+      <strong>Session 12 - Health - <a href="">Zoom A</a></strong><br>
+      10:30am - 12:00pm <br>
+      <i>Moderator: </i>
     </td>
+    <td colspan=3>
+      <strong>Session 13 - Supporting community-centered information work - <a href="">Zoom B</a></strong><br>
+      10:30am - 12:00pm <br>
+      <i>Moderator: </i>
+    </td>
+  </tr>
+ <tr>
+    <td colspan=3><a href="">Censorship of sexual & reproductive health information: The case of the Boston Women's Health Book Collective and a politics of repair</a><br>
+        <i>Gina Schlesselman-Tarango</i></td>
+    <td colspan=3><a href="">Information in repair: Co-designing an intergenerational digital storytelling app for the Inuvialuit communities</a><br>
+        <i>Sharon Farnel & Ali Shiri</i></td>
+  </tr>
+  <tr>
+    <td colspan=3><a href="">Assessing the indexing of research articles about gender diverse people in Medline & CINAHL</a><br>
+        <i>Sam McConnell</i></td>
+    <td colspan=3><a href="">"When I think of the pubilc library, I think of white": Black families counter-narratives of library irrelevance and community repair</a><br>
+        <i>Amber Matthews</i></td>
+  </tr>
+  <tr>
+    <td colspan=3><a href="">Conceptualizing a sexual health information serious game for post-secondary students in British Columbia (Lightning talk)</a><br>
+        <i>Bryn Shaffer & Heather O'Brien</i></td>
+    <td colspan=3><a href="">The information behaviour of municipal staff responsible for coastal adaptation policy design in Lunenburg County, Nova Scotia (Lightning talk)</a><br>
+        <i>Alexandre Legault, Bertrum H. MacDonald, Isabelle Caron, & Sandra Toze</i></td>
+  </tr>
+  <tr>
+    <td colspan=3><a href="">"You have to prove you are hurting": The information practices of people with fibromyalgia (Lightning talk)</a><br>
+        <i>Kevin Oswald</i></td>
   </tr>
 
   <td colspan=6 style="font-size:20px"><strong>Day 5 - Friday, June 26</strong> </td>
   </tr>
     <tr>
     <td colspan=3>
-      <strong>Session 2 - <a href="">Zoom A</a></strong><br>
+      <strong>Session 14 - The long view - <a href="">Zoom A</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 3 - <a href="">Zoom B</a></strong><br>
+      <strong>Session 15 - Scholarly communication - <a href="">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
   </tr>
  <tr>
-    <td colspan=3><a href="">The Actuality of the obsolete: Inscriptions, traces, and the documentary lifes of zines</a><br>
-        <i>Iulian Vamanu</i></td>
-    <td colspan=3><a href="">Session 3 presentation 1</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">A framework for climate sensemaking in libraries</a><br>
+        <i>Daniel Hackborn, Rachael Huegerich, Benjamin Mertick, Lisa P. Nathan, Luanne Sinnamon, & Belinda Suen</i></td>
+    <td colspan=3><a href="">From topic structure to policy signals: Evaluating mental health bibliometric research through dual indicators</a><br>
+        <i>Zhexian Zhu</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Session 2 presentation 2</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 2</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">Library and information science as the home for technological forecasting</a><br>
+        <i>Alex Mayhew</i></td>
+    <td colspan=3><a href="">Propietary publisher pushback: An analysis of responses from the "Big Five" academic journal firms to business model critiques from Canadian researchers</a><br>
+        <i>Chris Arsenault, Alissa Centivany, & Jasvinder Mann</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Session 2 presentation 3</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 3</a><br>
-        <i>author</i></td>
+    <td colspan=3><a href="">Shifting scope and topics at CAIS conferences: 1973-2025</a><br>
+        <i>Geoff Krause</i></td>
+    <td colspan=3><a href="">A system in need of repair: Potential of AI classification to help bridge the gap between fudning categories and disciplinary identities (Lightning talk)</a><br>
+        <i>Adrien Savard-Arseneault, Adelaide Tracey, Constance Poirier, & Anton Boudreau Ninkov</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Session 2 presentation 4</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 4</a><br>
-        <i>author</i></td>
-  </tr>
-  <tr>
-    <td colspan=3><a href="">Session 2 presentation 5</a><br>
-        <i>author</i></td>
-    <td colspan=3><a href="">Session 3 presentation 5</a><br>
-        <i>author</i></td>
+    <td colspan=3><br>
+       </td>
+    <td colspan=3><a href="">Subfields in LIS: Insights from 215 Canadian doctoral dissertations (Lightning talk)</a><br>
+        <i>Constance Poitras, Camille Demers, Christine Dufour, Anton Boudreau Ninkov, & Vincent Lariviere</i></td>
   </tr>
   <tr>
     <th colspan=6>12:00pm - 12:30pm Break</th>
     
   <tr>
     <td colspan=6>
-      <strong>Closing Ceremony - <a href="">Zoom A</a></strong><br>
+      <strong>Closing & AGM - <a href="">Zoom A</a></strong><br>
     </td>
   </tr>
  <tr>
     <td colspan=2>11:20am - 11:40am</td>
     <td colspan=4>Closing Ceremony<br>
-	<i>Moderator</i></td>
+	<i>Cameron Pierson</i></td>
  </tr>
  <tr>
     <td colspan=2>12:00pm - 2:00pm</td>
@@ -323,34 +312,15 @@ You can find the full conference proceedings [here](https://journals.library.ual
 
 </table>
 
-## Feedback Survey
 
-Please click [here](https://docs.google.com/forms/d/e/1FAIpQLScSaAkrU5x8yigu5HZZ3menTFpUBRuKpGTm0rrjGnNCMw-TWw/viewform) to complete our conference feedback survey!
-
-## Social Program
-
-The CAIS conference committee is pleased to offer several events for conference attendees to network and engage in an informal atmosphere. See below for more details.
-
-<strong>Day 1: Conference reception at The Social</strong>
-
-![The Social poster](/Reception.png)
-
-<strong>Day 2: Dinner at the Old Triangle</strong>
-
-![Old Triangle poster](/OldTriangle.png)
-
-<strong>Day 3: Guided tour of Halifax Citadel National Historic Site!</strong>
-
-![Citadel Tour poster](/Citadel.png)
 
 ## Our Sponsors
-CAIS 2025 is proud to be sponsored by the following organizations:
+CAIS 2026 is proud to be sponsored by the following organizations:
 
-- Federation for the Humanities and Social Sciences (EDID Initiatives Fund) 
 - The Canadian Association of Research Libraries (CARL)
 - Érudit
-- ASIS&T Canada Chapter
+- The UBC iSchool
 
-![Picture of FHSS](/fhss.jpg)       ![Picture of CARL](/carl.png) ![Picture of Erudit](/erudit1.png) ![Picture of ASIST](/ASIST.png) 
+![Picture of CARL](/carl.png) ![Picture of Erudit](/erudit1.png) ![Picture of UBC iSchool](/UBCiSchool.png) 
 
 
