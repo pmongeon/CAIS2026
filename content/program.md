@@ -17,7 +17,7 @@ The full conference proceedings will be available [here](https://journals.librar
 
 ## Conference Program
 
-- Please note that all times are in <strong>Pacific Daylight Time (ADT).</strong>
+- Please note that all times are in <strong>Pacific Daylight Time (PDT).</strong>
 - Paper presentations will be 20 minutes and lightning talks 5 minutes. Rather than questions immediately following each presentation, each session will end with a common question period. Each session will have an assigned moderator and volunteer to assist with technology. Panel presentations will not be assigned a moderator and will manage their own question period. Presenters will use screen sharing on Zoom; have your presentation files ready in the format you wish you present in.
 
 <table style="width:100%">
