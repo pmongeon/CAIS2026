@@ -33,7 +33,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <td colspan=4 style="width:60%">Student Research Forum - by invitation only</td>
   </tr>
   <tr>
-      <td colspan=6><strong>Opening Session <a href="[Zoom link]">Zoom A</a></strong><br>
+      <td colspan=6><strong>Opening Session - Zoom A</strong><br>
       <i>Moderator: Cameron Pierson</i></td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
   <tr>
     <td colspan=2>1:00pm - 2:00pm</td>
-    <td colspan=4><a href="">BC HERN (Keynote)</a><br>
+    <td colspan=4>BC HERN (Keynote)<br>
     <i>Tara Fraser & Heidi Swierenga</i></td>
   </tr>
 
@@ -51,7 +51,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
       <td colspan=6 style="font-size:20px"><strong>Day 2 - Tuesday, June 23</strong> </td>
   </tr>
    <tr>
-    <td colspan=2 style="width:20%"><strong> Session 1 - <a href="">Zoom A</a></strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 1 - Zoom A</strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
       A Mari Usque Ad Mare: Envisioning stronger student organizing among Canadian LIS programs (Panel)<br>
