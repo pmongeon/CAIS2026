@@ -283,7 +283,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   <tr>
     <td colspan=3>Shifting scope and topics at CAIS conferences: 1973-2025<br>
         <i>Geoff Krause</i></td>
-    <td colspan=3>A system in need of repair: Potential of AI classification to help bridge the gap between fudning categories and disciplinary identities (Lightning talk)<br>
+    <td colspan=3>A system in need of repair: Potential of AI classification to help bridge the gap between funding categories and disciplinary identities (Lightning talk)<br>
         <i>Adrien Savard-Arseneault, Adelaide Tracey, Constance Poirier, & Anton Boudreau Ninkov</i></td>
   </tr>
   <tr>
