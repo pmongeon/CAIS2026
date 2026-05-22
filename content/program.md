@@ -324,3 +324,4 @@ CAIS 2026 is proud to be sponsored by the following organizations:
 ![Picture of CARL](/carl.png) ![Picture of Erudit](/erudit1.png) ![Picture of UBC iSchool](/UBCiSchool.png) 
 
 
+
