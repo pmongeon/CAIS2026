@@ -79,7 +79,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   <tr>
     <td colspan=3>Soft skills for the academy: A reflection by faculty members<br>
         <i>Dinesh Rathi & Jennifer Branch-Mueller</i></td>
-    <td colspan=3>Mulitlingual text found in Crossref and OpenAlex and the effect on retrieval-augmented generation<br>
+    <td colspan=3>Multilingual text found in Crossref and OpenAlex and the effect on retrieval-augmented generation<br>
         <i>Poppy Riddle & Philippe Mongeon</i></td>
   </tr>
   <tr>
@@ -149,7 +149,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   <tr>
     <td colspan=3>Knowledge justice-informed student partnerships as reparative MLIS pedagogy work<br>
         <i>Pam McKenzie & Heather Campbell</i></td>
-    <td colspan=3>When interfaces fail: Mapping AI modalities used to repar access for blind and visually impaired users in digital knowledge repositories<br>
+    <td colspan=3>When interfaces fail: Mapping AI modalities used to repair access for blind and visually impaired users in digital knowledge repositories<br>
         <i>Omorodion Okuonghae</i></td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
       <i>Ana Talavera</i><br><br>
       Information jungle: Understanding information histories and authoritarianism (Lightning talk)<br>
       <i>Emma Brandt</i><br><br>
-      Monitoring victims: Huamn trafficking assessment tools as long-term record maintenance (Lightning talk)<br>
+      Monitoring victims: Human trafficking assessment tools as long-term record maintenance (Lightning talk)<br>
       <i>Nikki Wise</i>
     </td>
   </tr>
@@ -240,7 +240,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   <tr>
     <td colspan=3>Assessing the indexing of research articles about gender diverse people in Medline & CINAHL<br>
         <i>Sam McConnell</i></td>
-    <td colspan=3>"When I think of the pubilc library, I think of white": Black families counter-narratives of library irrelevance and community repair<br>
+    <td colspan=3>"When I think of the public library, I think of white": Black families counter-narratives of library irrelevance and community repair<br>
         <i>Amber Matthews</i></td>
   </tr>
   <tr>
@@ -277,7 +277,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   <tr>
     <td colspan=3>Library and information science as the home for technological forecasting<br>
         <i>Alex Mayhew</i></td>
-    <td colspan=3>Propietary publisher pushback: An analysis of responses from the "Big Five" academic journal firms to business model critiques from Canadian researchers<br>
+    <td colspan=3>Proprietary publisher pushback: An analysis of responses from the "Big Five" academic journal firms to business model critiques from Canadian researchers<br>
         <i>Chris Arsenault, Alissa Centivany, & Jasvinder Mann</i></td>
   </tr>
   <tr>
