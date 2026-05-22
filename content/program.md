@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-The full conference proceedings will be available [here](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/index).
+The full conference proceedings will be available on the CAIS Proceedings website ahead of the conference.
 
 
 ## Conference Program
@@ -60,53 +60,53 @@ The full conference proceedings will be available [here](https://journals.librar
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 2 - LIS Pedagogy - <a href="">Zoom A</a></strong><br>
+      <strong>Session 2 - LIS Pedagogy - Zoom A</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 3 - AI & Language - <a href="">Zoom B</a></strong><br>
+      <strong>Session 3 - AI & Language - Zoom B</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
   </tr>
  <tr>
-    <td colspan=3><a href="">Soft skills for LIS professionals: A review of recent job postings</a><br>
+    <td colspan=3>Soft skills for LIS professionals: A review of recent job postings<br>
         <i>Jennifer Branch-Mueller & Dinesh Rathi</i></td>
-    <td colspan=3><a href="">Repairing Indigenous bias in large language models: A prompt engineering pilot experiment</a><br>
+    <td colspan=3>Repairing Indigenous bias in large language models: A prompt engineering pilot experiment<br>
         <i>Ali Shiri</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Soft skills for the academy: A reflection by faculty members</a><br>
+    <td colspan=3>Soft skills for the academy: A reflection by faculty members<br>
         <i>Dinesh Rathi & Jennifer Branch-Mueller</i></td>
-    <td colspan=3><a href="">Mulitlingual text found in Crossref and OpenAlex and the effect on retrieval-augmented generation</a><br>
+    <td colspan=3>Mulitlingual text found in Crossref and OpenAlex and the effect on retrieval-augmented generation<br>
         <i>Poppy Riddle & Philippe Mongeon</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Towards an understanding of international students' engagement with decolonization and Indigenization in LIS pedagogy</a><br>
+    <td colspan=3>Towards an understanding of international students' engagement with decolonization and Indigenization in LIS pedagogy<br>
         <i>Miyang Roh</i></td>
-    <td colspan=3><a href="">Modelling language: Artificial intelligence, information infrastructures, and gameplay in Reddit's Hot & Cold (Lightning talk)</a><br>
+    <td colspan=3>Modeling language: Artificial intelligence, information infrastructures, and gameplay in Reddit's Hot & Cold (Lightning talk)<br>
         <i>Tariq Adely</i></td>
   </tr>
   <tr>
     <td colspan=3></td>
-    <td colspan=3><a href="">Language selection for documentary personal information management (Lightning talk)</a><br>
+    <td colspan=3>Language selection for documentary personal information management (Lightning talk)<br>
         <i>Sarah E. Cornwell</i></td>
   </tr>
   <tr>
     <th colspan=6>12:00pm - 12:30pm Break</th>
   </tr>
     <tr>
-    <td colspan=2 style="width:20%"><strong> Session 4 - Tangible Repair - <a href="">Zoom A</a></strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 4 - Tangible Repair - Zoom A</strong><br>
      12:30pm - 2:00pm</td>
     <td colspan=4>
       The Actuality of the obsolete: Inscriptions, traces, and the documentary life of zines<br>
       <i>Iulian Vamanu</i><br><br>
       Fix-it clinics: Libraries as spaces for repair (Lightning talk)<br>
       <i>Jain Orr</i><br><br>
-      Beyond the Right to Repair: Thinking repair justice with repair dependencies<br>
+      Beyond the Right to Repair: Thinking repair justice with repair dependencies (Lightning talk)<br>
       <i>Sarah Gram</i><br><br>
-      Playing library: The rise of organizational cozy gaming<br>
+      Playing library: The rise of organizational cozy gaming (Lightning talk)<br>
       <i>Jamie Lauzon</i>
     </td>
   </tr>
@@ -115,7 +115,7 @@ The full conference proceedings will be available [here](https://journals.librar
   <td colspan=6 style="font-size:20px"><strong>Day 3 - Wednesday, June 24</strong> </td>
   </tr>
       <tr>
-    <td colspan=2 style="width:20%"><strong> Session 5 - <a href="">Zoom A</a></strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 5 - Zoom A</strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
       Critical pedagogies and practices for care and connection in online teaching and learning (Panel)<br>
@@ -124,50 +124,50 @@ The full conference proceedings will be available [here](https://journals.librar
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 6 - Epistemic justice - <a href="">Zoom A</a></strong><br>
+      <strong>Session 6 - Epistemic justice - Zoom A</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 7 - Platform design & maintenance - <a href="">Zoom B</a></strong><br>
+      <strong>Session 7 - Platform design & maintenance - Zoom B</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
   </tr>
  <tr>
-    <td colspan=3><a href="">How did library and information science (LIS) schools perform in global rankings? An analysis of territorial epistemic injustices</a><br>
-        <i>Núria Bautista-Puig, Sara Martinez-Cardama, Samile Andrea de Souza Vanz, Phoebe Yip, & Chris Cunningham</i></td>
-    <td colspan=3><a href="">Plurality not pluribus in a unified digital collections platform</a><br>
+    <td colspan=3>How did library and information science (LIS) schools perform in global rankings? An analysis of territorial epistemic injustices<br>
+        <i>Núria Bautista-Puig, Sara Martínez-Cardama, Samile Andrea de Souza Vanz, Phoebe Yip, & Chris Cunningham</i></td>
+    <td colspan=3>Plurality not pluribus in a unified digital collections platform<br>
         <i>Kathryn Ruddock, Ingrid Reiche, & Chelsea Ambler</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Reparative information literacies of civic engagement for racial justice in the American South: Exploratory qualitative perspectives of public library staff in the domain of economy</a><br>
+    <td colspan=3>Reparative information literacies of civic engagement for racial justice in the American South: Exploratory qualitative perspectives of public library staff in the domain of economy<br>
         <i>Bharat Mehra, Kimberly Black, Baheya Jaber, & Kaurri C. Williams-Cockfield</i></td>
-    <td colspan=3><a href="">Invisible information work: Reparative practices in knowledge organization systems</a><br>
+    <td colspan=3>Invisible information work: Reparative practices in knowledge organization systems<br>
         <i>Rajesh Kumar Das</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Knowledge justice-informed student partnerships as reparative MLIS pedagogy work</a><br>
+    <td colspan=3>Knowledge justice-informed student partnerships as reparative MLIS pedagogy work<br>
         <i>Pam McKenzie & Heather Campbell</i></td>
-    <td colspan=3><a href="">When interfaces fail: Mapping AI modalities used to repar access for blind and visually impaired users in digital knowledge repositories</a><br>
+    <td colspan=3>When interfaces fail: Mapping AI modalities used to repar access for blind and visually impaired users in digital knowledge repositories<br>
         <i>Omorodion Okuonghae</i></td>
   </tr>
   <tr>
     <th colspan=6>12:00pm - 12:30pm Break</th>
   </tr>
   <tr>
-    <td colspan=2 style="width:20%"><strong> Session 8 - Advocacy and advocates - <a href="">Zoom A</a></strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 8 - Advocacy and advocates - Zoom A</strong><br>
      12:30pm - 2:00pm</td>
     <td colspan=4>
       An analysis of how first amendment auditors disseminate legal knowledge on YouTube<br>
       <i>Jasvinder Mann</i><br><br>
       Expectations of music archivists and disabled music archive users (Lightning talk)<br>
       <i>Elizabeth Pineo</i><br><br>
-      Information needs of economically disadvantaged women in Lima, Peru<br>
+      Information needs of economically disadvantaged women in Lima, Peru (Lightning talk)<br>
       <i>Ana Talavera</i><br><br>
-      Information jungle: Understanding information histories and authoritarianism<br>
+      Information jungle: Understanding information histories and authoritarianism (Lightning talk)<br>
       <i>Emma Brandt</i><br><br>
-      Monitoring victims: Huamn trafficking assessment tools as long-term record maintenance<br>
+      Monitoring victims: Huamn trafficking assessment tools as long-term record maintenance (Lightning talk)<br>
       <i>Nikki Wise</i>
     </td>
   </tr>
@@ -175,7 +175,7 @@ The full conference proceedings will be available [here](https://journals.librar
   <td colspan=6 style="font-size:20px"><strong>Day 4 - Thursday, June 25</strong> </td>
   </tr>
       <tr>
-    <td colspan=2 style="width:20%"><strong> Session 9 - <a href="">Zoom A</a></strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 9 - Zoom A</strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
       The Collaborative Canadian Catalogue/Le Catalogue canadien collaboratif (Panel)<br>
@@ -184,36 +184,36 @@ The full conference proceedings will be available [here](https://journals.librar
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 10 - AI Literacies & User Experience - <a href="">Zoom A</a></strong><br>
+      <strong>Session 10 - AI Literacies & User Experience - Zoom A</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 11 - Human-centered perspectives<a href="">Zoom B</a></strong><br>
+      <strong>Session 11 - Human-centered perspectives - Zoom B</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
   </tr>
  <tr>
-    <td colspan=3><a href="">Mapping research on AI-generated summaries</a><br>
+    <td colspan=3>Mapping research on AI-generated summaries<br>
         <i>Emmanuel Cudjoe</i></td>
-    <td colspan=3><a href="">Beyond repair: Wake work, refusal, and diasporic reimagingings of colonial archival regimes</a><br>
+    <td colspan=3>Beyond repair: Wake work, refusal, and diasporic reimagingings of colonial archival regimes<br>
         <i>Elizabeth Shaffer</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">De la littératie informationnelle à la littératie algorithmique en bibliothèque: Impératif sociétal et proposition d’un référentiel de formation</a><br>
+    <td colspan=3>De la littératie informationnelle à la littératie algorithmique en bibliothèque: Impératif sociétal et proposition d’un référentiel de formation<br>
         <i>Kouassi Sylvestre Kouakou</i></td>
-    <td colspan=3><a href="">Understanding human vulnerability in library and information science literature: Definitions, populations, manifestations, and factors</a><br>
+    <td colspan=3>Understanding human vulnerability in library and information science literature: Definitions, populations, manifestations, and factors<br>
         <i>Shengang Wang</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">AI's integration in user-experience design (Lightning talk)</a><br>
+    <td colspan=3>AI's integration in user-experience design (Lightning talk)<br>
         <i>Drishti Kothari, Catherine Guastavino, & Steven Ding</i></td>
-    <td colspan=3><a href="">Toward a method of measuring dehumanization's influence on sharing and believing misinformation</a><br>
+    <td colspan=3>Toward a method of measuring dehumanization's influence on sharing and believing misinformation<br>
         <i>Andrew Weiss, Souvick Ghosh, & Frances Johnson</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">AI imaginaries in media literacy courses (Lightning talk)</a><br>
+    <td colspan=3>AI imaginaries in media literacy courses (Lightning talk)<br>
         <i>Lucas L.H. Wong</i></td>
   </tr>
    <tr>
@@ -221,36 +221,36 @@ The full conference proceedings will be available [here](https://journals.librar
   </tr>
     <tr>
     <td colspan=3>
-      <strong>Session 12 - Health - <a href="">Zoom A</a></strong><br>
+      <strong>Session 12 - Health - Zoom A</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 13 - Supporting community-centered information work - <a href="">Zoom B</a></strong><br>
+      <strong>Session 13 - Supporting community-centered information work - Zoom B</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
   </tr>
  <tr>
-    <td colspan=3><a href="">Censorship of sexual & reproductive health information: The case of the Boston Women's Health Book Collective and a politics of repair</a><br>
+    <td colspan=3>Censorship of sexual & reproductive health information: The case of the Boston Women's Health Book Collective and a politics of repair<br>
         <i>Gina Schlesselman-Tarango</i></td>
-    <td colspan=3><a href="">Information in repair: Co-designing an intergenerational digital storytelling app for the Inuvialuit communities</a><br>
+    <td colspan=3>Information in repair: Co-designing an intergenerational digital storytelling app for the Inuvialuit communities<br>
         <i>Sharon Farnel & Ali Shiri</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Assessing the indexing of research articles about gender diverse people in Medline & CINAHL</a><br>
+    <td colspan=3>Assessing the indexing of research articles about gender diverse people in Medline & CINAHL<br>
         <i>Sam McConnell</i></td>
-    <td colspan=3><a href="">"When I think of the pubilc library, I think of white": Black families counter-narratives of library irrelevance and community repair</a><br>
+    <td colspan=3>"When I think of the pubilc library, I think of white": Black families counter-narratives of library irrelevance and community repair<br>
         <i>Amber Matthews</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Conceptualizing a sexual health information serious game for post-secondary students in British Columbia (Lightning talk)</a><br>
+    <td colspan=3>Conceptualizing a sexual health information serious game for post-secondary students in British Columbia (Lightning talk)<br>
         <i>Bryn Shaffer & Heather O'Brien</i></td>
-    <td colspan=3><a href="">The information behaviour of municipal staff responsible for coastal adaptation policy design in Lunenburg County, Nova Scotia (Lightning talk)</a><br>
+    <td colspan=3>The information behaviour of municipal staff responsible for coastal adaptation policy design in Lunenburg County, Nova Scotia (Lightning talk)<br>
         <i>Alexandre Legault, Bertrum H. MacDonald, Isabelle Caron, & Sandra Toze</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">"You have to prove you are hurting": The information practices of people with fibromyalgia (Lightning talk)</a><br>
+    <td colspan=3>"You have to prove you are hurting": The information practices of people with fibromyalgia (Lightning talk)<br>
         <i>Kevin Oswald</i></td>
   </tr>
 
@@ -258,38 +258,38 @@ The full conference proceedings will be available [here](https://journals.librar
   </tr>
     <tr>
     <td colspan=3>
-      <strong>Session 14 - The long view - <a href="">Zoom A</a></strong><br>
+      <strong>Session 14 - The long view - Zoom A</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 15 - Scholarly communication - <a href="">Zoom B</a></strong><br>
+      <strong>Session 15 - Scholarly communication - Zoom B</strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
   </tr>
  <tr>
-    <td colspan=3><a href="">A framework for climate sensemaking in libraries</a><br>
+    <td colspan=3>A framework for climate sensemaking in libraries<br>
         <i>Daniel Hackborn, Rachael Huegerich, Benjamin Mertick, Lisa P. Nathan, Luanne Sinnamon, & Belinda Suen</i></td>
-    <td colspan=3><a href="">From topic structure to policy signals: Evaluating mental health bibliometric research through dual indicators</a><br>
+    <td colspan=3>From topic structure to policy signals: Evaluating mental health bibliometric research through dual indicators<br>
         <i>Zhexian Zhu</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Library and information science as the home for technological forecasting</a><br>
+    <td colspan=3>Library and information science as the home for technological forecasting<br>
         <i>Alex Mayhew</i></td>
-    <td colspan=3><a href="">Propietary publisher pushback: An analysis of responses from the "Big Five" academic journal firms to business model critiques from Canadian researchers</a><br>
+    <td colspan=3>Propietary publisher pushback: An analysis of responses from the "Big Five" academic journal firms to business model critiques from Canadian researchers<br>
         <i>Chris Arsenault, Alissa Centivany, & Jasvinder Mann</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="">Shifting scope and topics at CAIS conferences: 1973-2025</a><br>
+    <td colspan=3>Shifting scope and topics at CAIS conferences: 1973-2025<br>
         <i>Geoff Krause</i></td>
-    <td colspan=3><a href="">A system in need of repair: Potential of AI classification to help bridge the gap between fudning categories and disciplinary identities (Lightning talk)</a><br>
+    <td colspan=3>A system in need of repair: Potential of AI classification to help bridge the gap between fudning categories and disciplinary identities (Lightning talk)<br>
         <i>Adrien Savard-Arseneault, Adelaide Tracey, Constance Poirier, & Anton Boudreau Ninkov</i></td>
   </tr>
   <tr>
     <td colspan=3><br>
        </td>
-    <td colspan=3><a href="">Subfields in LIS: Insights from 215 Canadian doctoral dissertations (Lightning talk)</a><br>
+    <td colspan=3>Subfields in LIS: Insights from 215 Canadian doctoral dissertations (Lightning talk)<br>
         <i>Constance Poitras, Camille Demers, Christine Dufour, Anton Boudreau Ninkov, & Vincent Lariviere</i></td>
   </tr>
   <tr>
@@ -297,7 +297,7 @@ The full conference proceedings will be available [here](https://journals.librar
     
   <tr>
     <td colspan=6>
-      <strong>Closing & AGM - <a href="">Zoom A</a></strong><br>
+      <strong>Closing & AGM - Zoom A</strong><br>
     </td>
   </tr>
  <tr>
@@ -307,7 +307,7 @@ The full conference proceedings will be available [here](https://journals.librar
  </tr>
  <tr>
     <td colspan=2>12:00pm - 2:00pm</td>
-    <td colspan=4><a href="">CAIS Annual General Meeting</a></td>
+    <td colspan=4>CAIS Annual General Meeting</td>
  </tr>
 
 </table>
