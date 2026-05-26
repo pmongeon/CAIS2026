@@ -223,7 +223,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <td colspan=3>
       <strong>Session 12 - Health - Zoom A</strong><br>
       10:30am - 12:00pm <br>
-      <i>Moderator: </i>
+      <i>Moderator: Danica Facca</i>
     </td>
     <td colspan=3>
       <strong>Session 13 - Supporting community-centered information work - Zoom B</strong><br>
