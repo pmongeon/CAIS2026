@@ -73,7 +73,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
  <tr>
     <td colspan=3>Soft skills for LIS professionals: A review of recent job postings<br>
         <i>Jennifer Branch-Mueller & Dinesh Rathi</i></td>
-    <td colspan=3>Repairing Indigenous bias in large language models: A prompt engineering pilot experiment<br>
+    <td colspan=3>Assessing Anti-Indigenous Bias in Large Language Models: A Prompt Engineering Pilot Experiment<br>
         <i>Ali Shiri</i></td>
   </tr>
   <tr>
@@ -164,7 +164,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
       Expectations of music archivists and disabled music archive users (Lightning talk)<br>
       <i>Elizabeth Pineo</i><br><br>
       Information needs of economically disadvantaged women in Lima, Peru (Lightning talk)<br>
-      <i>Ana Talavera</i><br><br>
+      <i>Ana Maria Talavera-Ibarra</i><br><br>
       Information jungle: Understanding information histories and authoritarianism (Lightning talk)<br>
       <i>Emma Brandt</i><br><br>
       Monitoring victims: Human trafficking assessment tools as long-term record maintenance (Lightning talk)<br>
@@ -271,14 +271,14 @@ The full conference proceedings will be available on the CAIS Proceedings websit
  <tr>
     <td colspan=3>A framework for climate sensemaking in libraries<br>
         <i>Daniel Hackborn, Rachael Huegerich, Benjamin Mertick, Lisa P. Nathan, Luanne Sinnamon, & Belinda Suen</i></td>
-    <td colspan=3>From topic structure to policy signals: Evaluating mental health bibliometric research through dual indicators<br>
-        <i>Zhexian Zhu</i></td>
+    <td colspan=3>Proprietary publisher pushback: An analysis of responses from the "Big Five" academic journal firms to business model critiques from Canadian researchers<br>
+        <i>Chris Arsenault, Alissa Centivany, & Jasvinder Mann</i></td>
   </tr>
   <tr>
     <td colspan=3>Library and information science as the home for technological forecasting<br>
         <i>Alex Mayhew</i></td>
-    <td colspan=3>Proprietary publisher pushback: An analysis of responses from the "Big Five" academic journal firms to business model critiques from Canadian researchers<br>
-        <i>Chris Arsenault, Alissa Centivany, & Jasvinder Mann</i></td>
+    <td colspan=3>From topic structure to policy signals: Evaluating mental health bibliometric research through dual indicators (Lightning talk)<br>
+        <i>Zhexian Zhu</i></td>
   </tr>
   <tr>
     <td colspan=3>Shifting scope and topics at CAIS conferences: 1973-2025<br>
