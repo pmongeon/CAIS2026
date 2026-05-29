@@ -72,7 +72,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
  <tr>
     <td colspan=3>Soft skills for LIS professionals: A review of recent job postings<br>
-        <i>Jennifer Branch-Mueller & Dinesh Rathi</i></td>
+        <i>Dinesh Rathi & Jennifer Branch-Mueller</i></td>
     <td colspan=3>Assessing Anti-Indigenous Bias in Large Language Models: A Prompt Engineering Pilot Experiment<br>
         <i>Ali Shiri</i></td>
   </tr>
