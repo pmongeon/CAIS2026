@@ -98,7 +98,8 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
     <tr>
     <td colspan=2 style="width:20%"><strong> Session 4 - Tangible Repair - Zoom A</strong><br>
-     12:30pm - 2:00pm</td>
+     12:30pm - 2:00pm<br>
+    <i>Moderator: </i></td>
     <td colspan=4>
       The Actuality of the obsolete: Inscriptions, traces, and the documentary life of zines<br>
       <i>Iulian Vamanu</i><br><br>
@@ -157,8 +158,9 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
   <tr>
     <td colspan=2 style="width:20%"><strong> Session 8 - Advocacy and advocates - Zoom A</strong><br>
-     12:30pm - 2:00pm</td>
-    <td colspan=4>
+     12:30pm - 2:00pm<br>
+    <i>Moderator: </i></td>
+      <td colspan=4>
       An analysis of how first amendment auditors disseminate legal knowledge on YouTube<br>
       <i>Jasvinder Mann</i><br><br>
       Expectations of music archivists and disabled music archive users (Lightning talk)<br>
