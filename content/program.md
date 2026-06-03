@@ -188,7 +188,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <td colspan=3>
       <strong>Session 10 - AI Literacies & User Experience - Zoom A</strong><br>
       10:30am - 12:00pm <br>
-      <i>Moderator: </i>
+      <i>Moderator: Isabel Altamirano</i>
     </td>
     <td colspan=3>
       <strong>Session 11 - Human-centered perspectives - Zoom B</strong><br>
