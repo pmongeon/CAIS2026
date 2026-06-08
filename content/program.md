@@ -55,7 +55,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     9:00am - 10:30am</td>
     <td colspan=4>
       A Mari Usque Ad Mare: Envisioning stronger student organizing among Canadian LIS programs (Panel)<br>
-      <i>Melissa Nelson, Camille Demers, Maddie Hare, JP Maan, & Constance Poitras</i>
+      <i>Melissa Nelson, Camille Demers, Maddie Hare, JP Mann, & Constance Poitras</i>
     </td>
   </tr>
   <tr>
