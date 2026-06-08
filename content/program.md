@@ -37,7 +37,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
       <i>Moderator: Cameron Pierson</i></td>
   </tr>
   <tr>
-    <td colspan=2>12:45pm - 1:00pm</td>
+    <td colspan=2>12:30pm - 1:00pm</td>
     <td colspan=2>Opening Remarks</td>
     <td colspan=2></a></strong></td>
   </tr>
