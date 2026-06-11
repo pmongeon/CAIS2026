@@ -262,12 +262,12 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <td colspan=3>
       <strong>Session 14 - The long view - Zoom A</strong><br>
       10:30am - 12:00pm <br>
-      <i>Moderator: </i>
+      <i>Moderator: Philippe Mongeon</i>
     </td>
     <td colspan=3>
       <strong>Session 15 - Scholarly communication - Zoom B</strong><br>
       10:30am - 12:00pm <br>
-      <i>Moderator: </i>
+      <i>Moderator: Anton Ninkov </i>
     </td>
   </tr>
  <tr>
