@@ -33,7 +33,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <td colspan=4 style="width:60%">Student Research Forum - by invitation only</td>
   </tr>
   <tr>
-      <td colspan=6><strong>Opening Session - Zoom A</strong><br>
+      <td colspan=6><strong>Opening Session - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
       <i>Moderator: Cameron Pierson</i></td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
       <td colspan=6 style="font-size:20px"><strong>Day 2 - Tuesday, June 23</strong> </td>
   </tr>
    <tr>
-    <td colspan=2 style="width:20%"><strong> Session 1 - Zoom A</strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 1 - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
       A Mari Usque Ad Mare: Envisioning stronger student organizing among Canadian LIS programs (Panel)<br>
@@ -60,12 +60,12 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 2 - LIS Pedagogy - Zoom A</strong><br>
+      <strong>Session 2 - LIS Pedagogy - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 3 - AI & Language - Zoom B</strong><br>
+      <strong>Session 3 - AI & Language - <a href="https://ubc.zoom.us/j/4733957512?pwd=bktOQmxEWFBJcG1ncnh6bTM4SjE4UT09">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
@@ -97,7 +97,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <th colspan=6>12:00pm - 12:30pm Break</th>
   </tr>
     <tr>
-    <td colspan=2 style="width:20%"><strong> Session 4 - Tangible Repair - Zoom A</strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 4 - Tangible Repair - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
      12:30pm - 2:00pm<br>
     <i>Moderator: </i></td>
     <td colspan=4>
@@ -116,7 +116,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   <td colspan=6 style="font-size:20px"><strong>Day 3 - Wednesday, June 24</strong> </td>
   </tr>
       <tr>
-    <td colspan=2 style="width:20%"><strong> Session 5 - Zoom A</strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 5 - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
       Critical pedagogies and practices for care and connection in online teaching and learning (Panel)<br>
@@ -125,12 +125,12 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 6 - Epistemic justice - Zoom A</strong><br>
+      <strong>Session 6 - Epistemic justice - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
     <td colspan=3>
-      <strong>Session 7 - Platform design & maintenance - Zoom B</strong><br>
+      <strong>Session 7 - Platform design & maintenance - <a href="https://ubc.zoom.us/j/4733957512?pwd=bktOQmxEWFBJcG1ncnh6bTM4SjE4UT09">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
@@ -157,7 +157,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <th colspan=6>12:00pm - 12:30pm Break</th>
   </tr>
   <tr>
-    <td colspan=2 style="width:20%"><strong> Session 8 - Advocacy and advocates - Zoom A</strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 8 - Advocacy and advocates - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
      12:30pm - 2:00pm<br>
     <i>Moderator: </i></td>
       <td colspan=4>
@@ -177,7 +177,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   <td colspan=6 style="font-size:20px"><strong>Day 4 - Thursday, June 25</strong> </td>
   </tr>
       <tr>
-    <td colspan=2 style="width:20%"><strong> Session 9 - Zoom A</strong><br>
+    <td colspan=2 style="width:20%"><strong> Session 9 - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
       The Collaborative Canadian Catalogue/Le Catalogue canadien collaboratif (Panel)<br>
@@ -186,12 +186,12 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
   <tr>
     <td colspan=3>
-      <strong>Session 10 - AI Literacies & User Experience - Zoom A</strong><br>
+      <strong>Session 10 - AI Literacies & User Experience - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: Isabel Altamirano</i>
     </td>
     <td colspan=3>
-      <strong>Session 11 - Human-centered perspectives - Zoom B</strong><br>
+      <strong>Session 11 - Human-centered perspectives - <a href="https://ubc.zoom.us/j/4733957512?pwd=bktOQmxEWFBJcG1ncnh6bTM4SjE4UT09">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
@@ -223,12 +223,12 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
     <tr>
     <td colspan=3>
-      <strong>Session 12 - Health - Zoom A</strong><br>
+      <strong>Session 12 - Health - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: Danica Facca</i>
     </td>
     <td colspan=3>
-      <strong>Session 13 - Supporting community-centered information work - Zoom B</strong><br>
+      <strong>Session 13 - Supporting community-centered information work - <a href="https://ubc.zoom.us/j/4733957512?pwd=bktOQmxEWFBJcG1ncnh6bTM4SjE4UT09">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: </i>
     </td>
@@ -260,12 +260,12 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
     <tr>
     <td colspan=3>
-      <strong>Session 14 - The long view - Zoom A</strong><br>
+      <strong>Session 14 - The long view - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: Philippe Mongeon</i>
     </td>
     <td colspan=3>
-      <strong>Session 15 - Scholarly communication - Zoom B</strong><br>
+      <strong>Session 15 - Scholarly communication - <a href="https://ubc.zoom.us/j/4733957512?pwd=bktOQmxEWFBJcG1ncnh6bTM4SjE4UT09">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
       <i>Moderator: Anton Ninkov </i>
     </td>
@@ -299,7 +299,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     
   <tr>
     <td colspan=6>
-      <strong>Closing & AGM - Zoom A</strong><br>
+      <strong>Closing & AGM - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
     </td>
   </tr>
  <tr>
