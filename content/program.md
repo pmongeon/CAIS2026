@@ -43,7 +43,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
   </tr>
   <tr>
     <td colspan=2>1:00pm - 2:00pm</td>
-    <td colspan=4>BC HERN (Keynote)<br>
+    <td colspan=4><a href="https://bchern.ca/">BC HERN</a> (Keynote)<br>
     <i>Tara Fraser & Heidi Swierenga</i></td>
   </tr>
 
@@ -54,7 +54,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <td colspan=2 style="width:20%"><strong> Session 1 - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
-      A Mari Usque Ad Mare: Envisioning stronger student organizing among Canadian LIS programs (Panel)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2077">A Mari Usque Ad Mare: Envisioning stronger student organizing among Canadian LIS programs</a> (Panel)<br>
       <i>Melissa Nelson, Camille Demers, Maddie Hare, JP Mann, & Constance Poitras</i>
     </td>
   </tr>
@@ -71,26 +71,26 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     </td>
   </tr>
  <tr>
-    <td colspan=3>Soft skills for LIS professionals: A review of recent job postings<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2065">Soft skills for LIS professionals: A review of recent job postings</a><br>
         <i>Dinesh Rathi & Jennifer Branch-Mueller</i></td>
-    <td colspan=3>Assessing Anti-Indigenous Bias in Large Language Models: A Prompt Engineering Pilot Experiment<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2028">Assessing Anti-Indigenous Bias in Large Language Models: A Prompt Engineering Pilot Experiment</a><br>
         <i>Ali Shiri</i></td>
   </tr>
   <tr>
-    <td colspan=3>Soft skills for the academy: A reflection by faculty members<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2064">Soft skills for the academy: A reflection by faculty members</a><br>
         <i>Dinesh Rathi & Jennifer Branch-Mueller</i></td>
-    <td colspan=3>Multilingual text found in Crossref and OpenAlex and the effect on retrieval-augmented generation<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2079">Multilingual text found in Crossref and OpenAlex and the effect on retrieval-augmented generation</a>br>
         <i>Poppy Riddle & Philippe Mongeon</i></td>
   </tr>
   <tr>
-    <td colspan=3>Towards an understanding of international students' engagement with decolonization and Indigenization in LIS pedagogy<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2034">Towards an understanding of international students' engagement with decolonization and Indigenization in LIS pedagogy</a><br>
         <i>Miyang Roh</i></td>
-    <td colspan=3>Modeling language: Artificial intelligence, information infrastructures, and gameplay in Reddit's Hot & Cold (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2056">Modeling language: Artificial intelligence, information infrastructures, and gameplay in Reddit's Hot & Cold</a> (Lightning talk)<br>
         <i>Tariq Adely</i></td>
   </tr>
   <tr>
     <td colspan=3></td>
-    <td colspan=3>Language selection for documentary personal information management (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2055">Language selection for documentary personal information management</a> (Lightning talk)<br>
         <i>Sarah E. Cornwell</i></td>
   </tr>
   <tr>
@@ -101,13 +101,13 @@ The full conference proceedings will be available on the CAIS Proceedings websit
      12:30pm - 2:00pm<br>
     <i>Moderator: </i></td>
     <td colspan=4>
-      The Actuality of the obsolete: Inscriptions, traces, and the documentary life of zines<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2074">The Actuality of the obsolete: Inscriptions, traces, and the documentary life of zines</a><br>
       <i>Iulian Vamanu</i><br><br>
-      Fix-it clinics: Libraries as spaces for repair (Lightning talk)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2048">Fix-it clinics: Libraries as spaces for repair</a> (Lightning talk)<br>
       <i>Jain Orr</i><br><br>
-      Beyond the Right to Repair: Thinking repair justice with repair dependencies (Lightning talk)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2062">Beyond the Right to Repair: Thinking repair justice with repair dependencies</a> (Lightning talk)<br>
       <i>Sarah Gram</i><br><br>
-      Playing library: The rise of organizational cozy gaming (Lightning talk)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2070">Playing library: The rise of organizational cozy gaming</a> (Lightning talk)<br>
       <i>Jamie Lauzon</i>
     </td>
   </tr>
@@ -119,7 +119,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <td colspan=2 style="width:20%"><strong> Session 5 - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
-      Critical pedagogies and practices for care and connection in online teaching and learning (Panel)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2036">Critical pedagogies and practices for care and connection in online teaching and learning</a> (Panel)<br>
       <i>Tami Oliphant, Danielle Allard, Heather Hill, Kirk MacLeod, Lorisia MacLeod, & Pamela McKenzie</i>
     </td>
   </tr>
@@ -136,19 +136,19 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     </td>
   </tr>
  <tr>
-    <td colspan=3>How did library and information science (LIS) schools perform in global rankings? An analysis of territorial epistemic injustices<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2047">How did library and information science (LIS) schools perform in global rankings? An analysis of territorial epistemic injustices</a><br>
         <i>Núria Bautista-Puig, Sara Martínez-Cardama, Samile Andrea de Souza Vanz, Phoebe Yip, & Chris Cunningham</i></td>
-    <td colspan=3>Plurality not pluribus in a unified digital collections platform<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2042">Plurality not pluribus in a unified digital collections platform</a><br>
         <i>Kathryn Ruddock, Ingrid Reiche, & Chelsea Ambler</i></td>
   </tr>
   <tr>
-    <td colspan=3>Reparative information literacies of civic engagement for racial justice in the American South: Exploratory qualitative perspectives of public library staff in the domain of economy<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2068">Reparative information literacies of civic engagement for racial justice in the American South: Exploratory qualitative perspectives of public library staff in the domain of economy</a><br>
         <i>Bharat Mehra, Kimberly Black, Baheya Jaber, & Kaurri C. Williams-Cockfield</i></td>
-    <td colspan=3>Invisible information work: Reparative practices in knowledge organization systems<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2063">Invisible information work: Reparative practices in knowledge organization systems</a><br>
         <i>Rajesh Kumar Das</i></td>
   </tr>
   <tr>
-    <td colspan=3>Knowledge justice-informed student partnerships as reparative MLIS pedagogy work<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2058">Knowledge justice-informed student partnerships as reparative MLIS pedagogy work</a><br>
         <i>Pam McKenzie & Heather Campbell</i></td>
     <td colspan=3>When interfaces fail: Mapping AI modalities used to repair access for blind and visually impaired users in digital knowledge repositories<br>
         <i>Omorodion Okuonghae</i></td>
@@ -161,15 +161,15 @@ The full conference proceedings will be available on the CAIS Proceedings websit
      12:30pm - 2:00pm<br>
     <i>Moderator: </i></td>
       <td colspan=4>
-      An analysis of how first amendment auditors disseminate legal knowledge on YouTube<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2076">An analysis of how first amendment auditors disseminate legal knowledge on YouTube</a><br>
       <i>Jasvinder Mann</i><br><br>
-      Expectations of music archivists and disabled music archive users (Lightning talk)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2023">Expectations of music archivists and disabled music archive users</a> (Lightning talk)<br>
       <i>Elizabeth Pineo</i><br><br>
-      Information needs of economically disadvantaged women in Lima, Peru (Lightning talk)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2050">Information needs of economically disadvantaged women in Lima, Peru</a> (Lightning talk)<br>
       <i>Ana Maria Talavera-Ibarra</i><br><br>
-      Information jungle: Understanding information histories and authoritarianism (Lightning talk)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2050">Information jungle: Understanding information histories and authoritarianism</a> (Lightning talk)<br>
       <i>Emma Brandt</i><br><br>
-      Monitoring victims: Human trafficking assessment tools as long-term record maintenance (Lightning talk)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2035">Monitoring victims: Human trafficking assessment tools as long-term record maintenance</a> (Lightning talk)<br>
       <i>Nikki Wise</i>
     </td>
   </tr>
@@ -180,7 +180,7 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     <td colspan=2 style="width:20%"><strong> Session 9 - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
     9:00am - 10:30am</td>
     <td colspan=4>
-      The Collaborative Canadian Catalogue/Le Catalogue canadien collaboratif (Panel)<br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2078">The Collaborative Canadian Catalogue/Le Catalogue canadien collaboratif</a> (Panel)<br>
       <i>B.M. Watson</i>
     </td>
   </tr>
@@ -197,25 +197,25 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     </td>
   </tr>
  <tr>
-    <td colspan=3>Mapping research on AI-generated summaries<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2033">Mapping research on AI-generated summaries</a><br>
         <i>Emmanuel Cudjoe</i></td>
-    <td colspan=3>Beyond repair: Wake work, refusal, and diasporic reimagingings of colonial archival regimes<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2067">Beyond repair: Wake work, refusal, and diasporic reimagingings of colonial archival regimes</a><br>
         <i>Elizabeth Shaffer</i></td>
   </tr>
   <tr>
-    <td colspan=3>De la littératie informationnelle à la littératie algorithmique en bibliothèque: Impératif sociétal et proposition d’un référentiel de formation<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2061">De la littératie informationnelle à la littératie algorithmique en bibliothèque: Impératif sociétal et proposition d’un référentiel de formation</a><br>
         <i>Kouassi Sylvestre Kouakou</i></td>
-    <td colspan=3>Understanding human vulnerability in library and information science literature: Definitions, populations, manifestations, and factors<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2024">Understanding human vulnerability in library and information science literature: Definitions, populations, manifestations, and factors</a><br>
         <i>Shengang Wang</i></td>
   </tr>
   <tr>
-    <td colspan=3>AI's integration in user-experience design (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2041">AI's integration in user-experience design</a> (Lightning talk)<br>
         <i>Drishti Kothari, Catherine Guastavino, & Steven Ding</i></td>
-    <td colspan=3>Toward a method of measuring dehumanization's influence on sharing and believing misinformation<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2034">Toward a method of measuring dehumanization's influence on sharing and believing misinformation</a><br>
         <i>Andrew Weiss, Souvick Ghosh, & Frances Johnson</i></td>
   </tr>
   <tr>
-    <td colspan=3>AI imaginaries in media literacy courses (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2053">AI imaginaries in media literacy courses</a> (Lightning talk)<br>
         <i>Lucas L.H. Wong</i></td>
   </tr>
    <tr>
@@ -234,25 +234,25 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     </td>
   </tr>
  <tr>
-    <td colspan=3>Censorship of sexual & reproductive health information: The case of the Boston Women's Health Book Collective and a politics of repair<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2026">Censorship of sexual & reproductive health information: The case of the Boston Women's Health Book Collective and a politics of repair</a><br>
         <i>Gina Schlesselman-Tarango</i></td>
-    <td colspan=3>Information in repair: Co-designing an intergenerational digital storytelling app for the Inuvialuit communities<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2037">Information in repair: Co-designing an intergenerational digital storytelling app for the Inuvialuit communities</a><br>
         <i>Sharon Farnel & Ali Shiri</i></td>
   </tr>
   <tr>
-    <td colspan=3>Assessing the indexing of research articles about gender diverse people in Medline & CINAHL<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2059">Assessing the indexing of research articles about gender diverse people in Medline & CINAHL</a><br>
         <i>Sam McConnell</i></td>
-    <td colspan=3>"When I think of the public library, I think of white": Black families counter-narratives of library irrelevance and community repair<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2031">"When I think of the public library, I think of white": Black families counter-narratives of library irrelevance and community repair</a><br>
         <i>Amber Matthews</i></td>
   </tr>
   <tr>
-    <td colspan=3>Conceptualizing a sexual health information serious game for post-secondary students in British Columbia (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2066">Conceptualizing a sexual health information serious game for post-secondary students in British Columbia</a> (Lightning talk)<br>
         <i>Bryn Shaffer & Heather O'Brien</i></td>
-    <td colspan=3>The information behaviour of municipal staff responsible for coastal adaptation policy design in Lunenburg County, Nova Scotia (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2022">The information behaviour of municipal staff responsible for coastal adaptation policy design in Lunenburg County, Nova Scotia</a> (Lightning talk)<br>
         <i>Alexandre Legault, Bertrum H. MacDonald, Isabelle Caron, & Sandra Toze</i></td>
   </tr>
   <tr>
-    <td colspan=3>"You have to prove you are hurting": The information practices of people with fibromyalgia (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2049">"You have to prove you are hurting": The information practices of people with fibromyalgia</a> (Lightning talk)<br>
         <i>Kevin Oswald</i></td>
   </tr>
 
@@ -271,27 +271,27 @@ The full conference proceedings will be available on the CAIS Proceedings websit
     </td>
   </tr>
  <tr>
-    <td colspan=3>A framework for climate sensemaking in libraries<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2051">A framework for climate sensemaking in libraries</a><br>
         <i>Daniel Hackborn, Rachael Huegerich, Benjamin Mertick, Lisa P. Nathan, Luanne Sinnamon, & Belinda Suen</i></td>
-    <td colspan=3>Proprietary publisher pushback: An analysis of responses from the "Big Five" academic journal firms to business model critiques from Canadian researchers<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2071">Proprietary publisher pushback: An analysis of responses from the "Big Five" academic journal firms to business model critiques from Canadian researchers</a><br>
         <i>Chris Arsenault, Alissa Centivany, & Jasvinder Mann</i></td>
   </tr>
   <tr>
-    <td colspan=3>Library and information science as the home for technological forecasting<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2039">Library and information science as the home for technological forecasting</a><br>
         <i>Alex Mayhew</i></td>
-    <td colspan=3>From topic structure to policy signals: Evaluating mental health bibliometric research through dual indicators (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2054">From topic structure to policy signals: Evaluating mental health bibliometric research through dual indicators</a> (Lightning talk)<br>
         <i>Zhexian Zhu</i></td>
   </tr>
   <tr>
-    <td colspan=3>Shifting scope and topics at CAIS conferences: 1973-2025<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2072">Shifting scope and topics at CAIS conferences: 1973-2025</a><br>
         <i>Geoff Krause</i></td>
-    <td colspan=3>A system in need of repair: Potential of AI classification to help bridge the gap between funding categories and disciplinary identities (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2060">A system in need of repair: Potential of AI classification to help bridge the gap between funding categories and disciplinary identities</a> (Lightning talk)<br>
         <i>Adrien Savard-Arseneault, Adelaide Tracey, Constance Poirier, & Anton Boudreau Ninkov</i></td>
   </tr>
   <tr>
     <td colspan=3><br>
        </td>
-    <td colspan=3>Subfields in LIS: Insights from 215 Canadian doctoral dissertations (Lightning talk)<br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2038">Subfields in LIS: Insights from 215 Canadian doctoral dissertations</a> (Lightning talk)<br>
         <i>Constance Poitras, Camille Demers, Christine Dufour, Anton Boudreau Ninkov, & Vincent Lariviere</i></td>
   </tr>
   <tr>
