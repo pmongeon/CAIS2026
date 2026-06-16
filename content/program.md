@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-The full conference proceedings will be available on the CAIS Proceedings website ahead of the conference.
+The full conference proceedings are available on <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/issue/view/67">Proceedings of the Annual Conference of CAIS</a>.
 
 
 ## Conference Program
