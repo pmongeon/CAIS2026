@@ -127,7 +127,7 @@ The full conference proceedings are available on <a href="https://journals.libra
     <td colspan=3>
       <strong>Session 6 - Epistemic justice - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
       10:30am - 12:00pm <br>
-      <i>Moderator: </i>
+      <i>Moderator: Hannah Turner</i>
     </td>
     <td colspan=3>
       <strong>Session 7 - Platform design & maintenance - <a href="https://ubc.zoom.us/j/4733957512?pwd=bktOQmxEWFBJcG1ncnh6bTM4SjE4UT09">Zoom B</a></strong><br>
