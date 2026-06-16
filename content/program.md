@@ -79,7 +79,7 @@ The full conference proceedings are available on <a href="https://journals.libra
   <tr>
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2064">Soft skills for the academy: A reflection by faculty members</a><br>
         <i>Dinesh Rathi & Jennifer Branch-Mueller</i></td>
-    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2079">Multilingual text found in Crossref and OpenAlex and the effect on retrieval-augmented generation</a>br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2079">Multilingual text found in Crossref and OpenAlex and the effect on retrieval-augmented generation</a><br>
         <i>Poppy Riddle & Philippe Mongeon</i></td>
   </tr>
   <tr>
