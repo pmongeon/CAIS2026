@@ -67,7 +67,7 @@ The full conference proceedings are available on <a href="https://journals.libra
     <td colspan=3>
       <strong>Session 3 - AI & Language - <a href="https://ubc.zoom.us/j/4733957512?pwd=bktOQmxEWFBJcG1ncnh6bTM4SjE4UT09">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
-      <i>Moderator: </i>
+      <i>Moderator: Geoff Krause</i>
     </td>
   </tr>
  <tr>
@@ -132,7 +132,7 @@ The full conference proceedings are available on <a href="https://journals.libra
     <td colspan=3>
       <strong>Session 7 - Platform design & maintenance - <a href="https://ubc.zoom.us/j/4733957512?pwd=bktOQmxEWFBJcG1ncnh6bTM4SjE4UT09">Zoom B</a></strong><br>
       10:30am - 12:00pm <br>
-      <i>Moderator: </i>
+      <i>Moderator: Maddie Hare</i>
     </td>
   </tr>
  <tr>
@@ -159,7 +159,7 @@ The full conference proceedings are available on <a href="https://journals.libra
   <tr>
     <td colspan=2 style="width:20%"><strong> Session 8 - Advocacy and advocates - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
      12:30pm - 2:00pm<br>
-    <i>Moderator: </i></td>
+    <i>Moderator: Philippe Mongeon</i></td>
       <td colspan=4>
       <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2076">An analysis of how first amendment auditors disseminate legal knowledge on YouTube</a><br>
       <i>Jasvinder Mann</i><br><br>
