@@ -99,7 +99,7 @@ The full conference proceedings are available on <a href="https://journals.libra
     <tr>
     <td colspan=2 style="width:20%"><strong> Session 4 - Tangible Repair - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
      12:30pm - 2:00pm<br>
-    <i>Moderator: </i></td>
+    <i>Moderator: Lubna Daraz</i></td>
     <td colspan=4>
       <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2074">The Actuality of the obsolete: Inscriptions, traces, and the documentary life of zines</a><br>
       <i>Iulian Vamanu</i><br><br>
