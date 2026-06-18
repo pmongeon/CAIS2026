@@ -303,12 +303,12 @@ The full conference proceedings are available on <a href="https://journals.libra
     </td>
   </tr>
  <tr>
-    <td colspan=2>11:20am - 11:40am</td>
+    <td colspan=2>12:30pm - 12:40pm</td>
     <td colspan=4>Closing Ceremony<br>
 	<i>Cameron Pierson</i></td>
  </tr>
  <tr>
-    <td colspan=2>12:00pm - 2:00pm</td>
+    <td colspan=2>12:40pm - 2:00pm</td>
     <td colspan=4>CAIS Annual General Meeting</td>
  </tr>
 
