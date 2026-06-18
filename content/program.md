@@ -211,7 +211,7 @@ The full conference proceedings are available on <a href="https://journals.libra
   <tr>
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2041">AI's integration in user-experience design</a> (Lightning talk)<br>
         <i>Drishti Kothari, Catherine Guastavino, & Steven Ding</i></td>
-    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2034">Toward a method of measuring dehumanization's influence on sharing and believing misinformation</a><br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2040">Toward a method of measuring dehumanization's influence on sharing and believing misinformation</a><br>
         <i>Andrew Weiss, Souvick Ghosh, & Frances Johnson</i></td>
   </tr>
   <tr>
