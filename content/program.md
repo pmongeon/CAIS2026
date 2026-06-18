@@ -203,7 +203,7 @@ The full conference proceedings are available on <a href="https://journals.libra
         <i>Elizabeth Shaffer</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2061">De la littératie informationnelle à la littératie algorithmique en bibliothèque: Impératif sociétal et proposition d’un référentiel de formation</a><br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2061">De la littératie informationnelle à la littératie algorithmique en bibliothèque: Impératif sociétal et proposition d’un référentiel de formation</a> (Lightning talk)<br>
         <i>Kouassi Sylvestre Kouakou</i></td>
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2024">Understanding human vulnerability in library and information science literature: Definitions, populations, manifestations, and factors</a><br>
         <i>Shengang Wang, Ge Zhang, & Wonchan Choi</i></td>
