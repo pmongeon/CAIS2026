@@ -206,7 +206,7 @@ The full conference proceedings are available on <a href="https://journals.libra
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2061">De la littératie informationnelle à la littératie algorithmique en bibliothèque: Impératif sociétal et proposition d’un référentiel de formation</a><br>
         <i>Kouassi Sylvestre Kouakou</i></td>
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2024">Understanding human vulnerability in library and information science literature: Definitions, populations, manifestations, and factors</a><br>
-        <i>Shengang Wang</i></td>
+        <i>Shengang Wang, Ge Zhang, & Wonchan Choi</i></td>
   </tr>
   <tr>
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2041">AI's integration in user-experience design</a> (Lightning talk)<br>
