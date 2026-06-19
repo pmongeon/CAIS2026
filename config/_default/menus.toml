@@ -16,7 +16,7 @@
 #[[main]]
 #  name = "Venue"
 #  url = "venue/"
-#  weight = 18 
+#  weight = 18
 
 #[[main]]
 #  name = "Registration"
@@ -47,4 +47,3 @@
   name = "Français"
   url = "https://acsi2026.ca"
   weight = 70
-
