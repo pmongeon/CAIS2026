@@ -83,7 +83,7 @@ The full conference proceedings are available on <a href="https://journals.libra
         <i>Poppy Riddle & Philippe Mongeon</i></td>
   </tr>
   <tr>
-    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2034">Towards an understanding of international students' engagement with decolonization and Indigenization in LIS pedagogy</a><br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2034">Towards an understanding of international students' engagement with decolonization and Indigenization in LIS pedagogy</a> <b>*Best Student Paper Award</b><br>
         <i>Miyang Roh</i></td>
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2056">Modeling language: Artificial intelligence, information infrastructures, and gameplay in Reddit's Hot & Cold</a> (Lightning talk)<br>
         <i>Tariq Adely</i></td>
@@ -101,7 +101,7 @@ The full conference proceedings are available on <a href="https://journals.libra
      12:30pm - 2:00pm<br>
     <i>Moderator: Lubna Daraz</i></td>
     <td colspan=4>
-      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2074">The Actuality of the obsolete: Inscriptions, traces, and the documentary life of zines</a><br>
+      <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2074">The Actuality of the obsolete: Inscriptions, traces, and the documentary life of zines</a> <b>*Best Paper Award</b><br>
       <i>Iulian Vamanu</i><br><br>
       <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2048">Fix-it clinics: Libraries as spaces for repair</a> (Lightning talk)<br>
       <i>Jain Orr</i><br><br>
@@ -234,7 +234,7 @@ The full conference proceedings are available on <a href="https://journals.libra
     </td>
   </tr>
  <tr>
-    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2026">Censorship of sexual & reproductive health information: The case of the Boston Women's Health Book Collective and a politics of repair</a><br>
+    <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2026">Censorship of sexual & reproductive health information: The case of the Boston Women's Health Book Collective and a politics of repair</a> <b>*Best Practitioner Paper Award</b><br>
         <i>Gina Schlesselman-Tarango</i></td>
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2037">Information in repair: Co-designing an intergenerational digital storytelling app for the Inuvialuit communities</a><br>
         <i>Sharon Farnel & Ali Shiri</i></td>
