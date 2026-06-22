@@ -34,7 +34,7 @@ The full conference proceedings are available on <a href="https://journals.libra
   </tr>
   <tr>
       <td colspan=6><strong>Opening Session - <a href="https://ubc.zoom.us/j/64813780771?pwd=mmnvTZLtxnQRXiAdn6d9NlsbAzMKbY.1">Zoom A</a></strong><br>
-      <i>Moderator: Cameron Pierson</i></td>
+      <i>Moderator: Julia Bullard</i></td>
   </tr>
   <tr>
     <td colspan=2>12:30pm - 1:00pm</td>
