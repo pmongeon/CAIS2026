@@ -286,7 +286,7 @@ The full conference proceedings are available on <a href="https://journals.libra
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2072">Shifting scope and topics at CAIS conferences: 1973-2025</a><br>
         <i>Geoff Krause</i></td>
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2060">A system in need of repair: Potential of AI classification to help bridge the gap between funding categories and disciplinary identities</a> (Lightning talk)<br>
-        <i>Adrien Savard-Arseneault, Adelaide Tracey, Constance Poirier, & Anton Boudreau Ninkov</i></td>
+        <i>Adrien Savard-Arseneault, Adelaide Tracey, Constance Poitras, & Anton Boudreau Ninkov</i></td>
   </tr>
   <tr>
     <td colspan=3><br>
