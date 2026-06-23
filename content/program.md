@@ -230,7 +230,7 @@ The full conference proceedings are available on <a href="https://journals.libra
     <td colspan=3>
       <strong>Session 13 - Supporting community-centered information work - <a href="https://ubc.zoom.us/j/4733957512?pwd=bktOQmxEWFBJcG1ncnh6bTM4SjE4UT09">Zoom B</a></strong><br>
       12:30pm - 2:00pm <br>
-      <i>Moderator: </i>
+      <i>Moderator: Melissa Nelson</i>
     </td>
   </tr>
  <tr>
