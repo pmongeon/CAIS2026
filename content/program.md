@@ -181,7 +181,7 @@ The full conference proceedings are available on <a href="https://journals.libra
     9:00am - 10:30am</td>
     <td colspan=4>
       <a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2078">The Collaborative Canadian Catalogue/Le Catalogue canadien collaboratif</a> (Panel)<br>
-      <i>B.M. Watson</i>
+      <i>B.M. Watson, Melissa Adler, Tina Liu, Yoo Young Lee, Johnson, Mackenzie, & Hillary Anderson</i>
     </td>
   </tr>
   <tr>
