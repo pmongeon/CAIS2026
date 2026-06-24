@@ -150,8 +150,7 @@ The full conference proceedings are available on <a href="https://journals.libra
   <tr>
     <td colspan=3><a href="https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/2058">Knowledge justice-informed student partnerships as reparative MLIS pedagogy work</a><br>
         <i>Pam McKenzie & Heather Campbell</i></td>
-    <td colspan=3>When interfaces fail: Mapping AI modalities used to repair access for blind and visually impaired users in digital knowledge repositories<br>
-        <i>Omorodion Okuonghae</i></td>
+    <td colspan=3></td>
   </tr>
   <tr>
     <th colspan=6>12:00pm - 12:30pm Break</th>
