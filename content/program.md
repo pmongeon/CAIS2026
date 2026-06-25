@@ -308,7 +308,8 @@ The full conference proceedings are available on <a href="https://journals.libra
  </tr>
  <tr>
     <td colspan=2>12:40pm - 2:00pm</td>
-    <td colspan=4>CAIS Annual General Meeting</td>
+    <td colspan=4>CAIS Annual General Meeting<br>
+    <a href="https://drive.google.com/drive/folders/14IFwNZJhy_WeM-384DhjFhaBfP4yk_Gj?usp=drive_link">AGM documents</a></td>
  </tr>
 
 </table>
